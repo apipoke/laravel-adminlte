@@ -24,6 +24,9 @@ Homestead.json
 /.vagrant
 .phpunit.result.cache
 
+
+public/adminlte/package-lock.json
+
 ### Linux ###
 *~
 
